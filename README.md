@@ -18,7 +18,9 @@ react-icons  => important library for free icons
 
 emailjs-com => to receive emails from clients without need to using backend by using emailjs API
 
-react-router-dom => in case making multi pages&#x20;
+react-router-dom => in case making multi pages
+
+swiper => to make the testimonials slider&#x20;
 
 
 
