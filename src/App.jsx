@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route exact path="/" element={<HomePage />} />
+        <Route exact path="/reactPortfolioWebsite" element={<HomePage />} />
       </Routes>
     </div>
   )
